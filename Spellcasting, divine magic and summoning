@@ -1,0 +1,71 @@
+After playing a bit with Tc6 beta, i have a few ideas on how to enchance it a bit (mstly related tofocus and spellcasting)
+  
+  1. Tools & Focuses
+  Gloves - cool idea, but completetly scrapping wands is kinda boring. On the other hand, having multiple 
+types of spellcasting tools could be quite interesting. For example, player would start by researching the simple wand with old good 
+stick and iron caps. However, upon researching more advanced version, player could gain ability to research 
+alternative tools - gloves and something else, maybe orbs? In comparsion to gloves, wands could have reduced power, but also shorter 
+delay between casts and better aura efficiency, while orbs would have worse aura efficiency but increased damage.
+  However, these differences aren't enough to make 3 separate tool types, right? Well, let me prestent another 2 ideas:
+a) Focus restrictions 
+  Being able to choose between so many orbs at once is confusing (and a bit op tbh). What if each spellcasting tool 
+had a small inventory for multiple orbs (? gloves 5, wands 3, orbs 1 ?) that coould be accesed after pressing focus change button (f)?
+After pressing it, there would appear 2 rings around currently selected orb, with smaller ring near the center showing equipped orbs 
+(working the same way that it is currently, but puts unused orb in your tool's inventory) and larger ring around it showing all owned orbs.
+After clicking the larger ring, the window would stay opened until player presses 'f' again, allowing him to swap equipped orbs.
+However, that wouldn't be enough, right? Well, it could - if it was possible to change focuses without opening the menu,
+by simply cycling them with some button. 
+b) Unique focus
+  The last part of my proposition for spellcasting tools changes is to make 1 focus medium and 1 focus effect unique to each tool. 
+For example: Gloves - medium: plan, effect: exchange
+Wands - medium: none, but allows 'touch' to affect object further away (editable)
+effect (new): levitation - target is temporarily immobilized and lifted by 0.5 above current position. Additionally, affected target
+mirrors player's movements, allowing for easy transportation. Pressing 'g' will pull the target closer, while pressing it in combination 
+with 'shift' will push it further away (range and duration editable)
+Orbs - medium (new): beam (self explainatory), effect(new): puryfying light (higher dmg against undead, tainted beings and warped entities)
+
+
+2. Anti-warp
+  To say it shortly, let's divide magic into 3 categories: normal (always learnable, doesn't affect player in any way), dark magic (learnnable
+upon achieving higher level of warp, causes more warp) and new type, divine magic (learnabe only after achieving... something, it's rather 
+a loose idea rn XD anyway, it could also apply some positive effect to the player) (also it could be good to add more positive effects to 
+max lvl warp for balance)
+The dark and divine magic would be mutually exclusive - researching one blocks path to the other. They could either have own research tabs
+or just nodes in currently existing ones.
+ 
+  Also, related: If the crimson cult are the 'dark magic' group, it could be nice to add an opposing faction - for example, something like this:
+Mobs:
+Warden of Order - weak, basic unit. ranged magical attack. Appearance: humanoidal, thin, consists of flying ?exoskeleton? and mist-like body
+(somewhat akin to fire atronach from The Elder Scrolls)
+Divine Punisher: high hp, mediocre dmg. Melee attack with a sword. Appearance: Knight in a nice gold-white
+plate armour, holding sword and shield. If spawns without helmet, has a semi-transparent steve head 
+Divine Emisary: the boss. summons wardens (up to 3 active). Can fly. Uses a sword, but this sword can also execute magical ranged attacks.
+Appearance: An angel in elegant scale armour, with full-face helmet
+  All these mobs could drop their gear or some other stuff
+Behaviour: their portal rarely spawns on tainted biome, and spawned entities proceed to attack all tainted 
+creatures and restore blocks to their original form (but can't destroy liquids or taint seed, so they can't succed without player's help). Where they appear, more tainted mobs are being spawned,
+but they stop spawning anywhere else within large area, allowing for safer exploration. They are neutral towards player, but will attack
+when players attacks one of them or their portal.
+  Upon achieving high enough level of warp, they would attack player on sight, but the crimson cult would become neutral towards him.
+Gear of both factions could be also craftable upon researching it (availible after achieving high enough lvl of related effect)
+
+
+3. Summoning
+New tab in thaumonomicon, first activates upon scanning a summoned spellbat. It's rather a loose idea rn, but there are a few things 
+i've come up with:
+a) Spell scrolls
+  Crafted on modified research table, these can be placed on ground (if there's enough space). Upon doing this, a magic circle will appear,
+drawn with black lines and symbols that vary depending on spell. The circle drawn this way is a template that must be filled with multiple
+Salis Mundi, and then infused with energy (either with spellcasting tools, or with some new item). Doing this will fill them with colour
+and start summoning. Required salis mundi, energy, circle size and summoning time vary depending on the summoned being.
+b) Elementals and other beings
+  The base magic summons are elementals, each based around certain primal aspect. However, upon reaching
+high enough lvl of warp (or the opposite) palyer would unlock more special summons, based around ordo and perditio. They would eventually 
+lead to Crimson Knights/Wardens of Order, and then ultimately the most powerfull spell: Portal Summon, allowing player to spawn 
+a portal for his divine or warped allies - at extemaly high cost. Summoning clerics/praetors or punishers/emisaries that would be under 
+player's controll should be impossible as these beings are far too powerfull.
+
+Well, that's it for my ideas, i hope you like at least some of them :3
+
+
+ 
